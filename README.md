@@ -1,5 +1,5 @@
 
-=======================================  DATA AUGMENTATION  =======================================
+==================================  DATA AUGMENTATION  ===================================
 
 1. completeFlow() - Augments images in a folder and stores them in another folder
     - arguments:
@@ -16,4 +16,4 @@
         multiplication_factor - Augmentation rate. (Number of images to be generated per image)
     - return : List of augmented images
 
-====================================================================================================            
+============================================================================================            
