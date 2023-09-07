@@ -16,6 +16,4 @@
         multiplication_factor - Augmentation rate. (Number of images to be generated per image)
     - return : List of augmented images
 
-
-3. This is just a trial for pushing using git bash
 ====================================================================================            
